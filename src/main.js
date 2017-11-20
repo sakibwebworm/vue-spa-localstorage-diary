@@ -5,7 +5,11 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-
+Vue.prototype.$localStorage = 'Diary'
+Vue.prototype.$notification = {
+  notify:'Entry saved Successfully!',
+  show:false
+}
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
