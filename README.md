@@ -2,6 +2,19 @@
 
 > vue.js spa
 
+## Demo link
+<a href="https://sakibwebworm.github.io/vue-spa-localstorage-diary/#/">Demo</a>
+
+## Technology used
+<ul>
+  <li>Vue 2</li>
+   <li>Localstorage</li>
+  <li>Moment.js</li>
+</ul>
+
+## How it looks
+<img src="front.gif">
+
 ## Build Setup
 
 ``` bash
